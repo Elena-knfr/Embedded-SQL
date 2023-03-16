@@ -1,4 +1,7 @@
-# Intro-to-DB (Postgres)
+# Intro-to-DB, Embedded SQL (Postgres)
+
+
+Note: The code (.py) for this repo is intended to be only shown to employers upon hiring. You may reach me at elenakianifar8@gmail.com.
 
 
 Working with a SQL schema for a database to manage waste collection for the City of Toronto.
